@@ -196,4 +196,8 @@ font-weight: 700;
 }
 .social-link a{
     text-decoration: none;
+    margin-right: 20px;
+}
+p.f-discription {
+    line-height: 30px;
 }
